@@ -5,12 +5,12 @@
   "main": "server.js",
   "scripts": {
     "start": "node server",
-    "server" : "nodemon server"
+    "server": "nodemon server"
   },
   "author": "Mohit Kacha",
   "license": "MIT",
   "dependencies": {
-    "bcryptjs": "^2.4.3",
+    "bcrypt": "^5.0.0",
     "config": "^3.3.3",
     "express": "^4.17.1",
     "express-validator": "^6.9.2",
