@@ -1,4 +1,7 @@
 {
     "mongoUri" : "mongodb+srv://mohit:mohit@devconnector.v3c7d.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "jwtSecret" : "mySecretKey"
+    "jwtSecret" : "mySecretKey",
+    "githubClientId" : "d8c8bd43c2b749e81238",
+    "githubClientSecret" : "e6fef66bd67a8d70d257470d2b7ef91c72651fec"
+
 }
